@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: CONTEXTUAL INQUIRY PLAN
 ---
 ## 
