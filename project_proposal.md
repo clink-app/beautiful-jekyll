@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Project Proposal
-subtitle: An inital proposal for Clink!
+title: Clink!
+subtitle: An inital project proposal
 ---
 
-// ## Clink!
 **The problem**
 
 In colleges, off-campus community are usually segregated from the student body. It is often hard to meet new people outside of this kind of structured environment. Organizations that currently organize activities that connect people in the communities are currently very systematic and community-service oriented. As a result, meetings that do happen between these two groups of people are usually task-driven when they occur. They do not involve spending time together and building a relationship.
