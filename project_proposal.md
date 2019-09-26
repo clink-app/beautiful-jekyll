@@ -28,7 +28,7 @@ With this target audience in mind, an implementation on both a website and a pho
 
 
 **Additional considerations**
-One of the challenges in implementing this app would be the necessity to maintain the safety and the inclusiveness of users. We can group people together based on their shared interests, or exclude people the hosts are not comfortable inviting in an event post. Asking users to provide some sort of identification (driver licenses), can also deter them from taking advantage of the system.
+One of the challenges in implementing this app would be the necessity to maintain the safety and the inclusiveness of users. We can group people together based on their shared interests, or exclude people the hosts are not comfortable inviting in an event post. Asking users to provide some sort of identification (driver licenses, school email validation), can also deter them from taking advantage of the system.
 
 An extra feature worth adding is for people who need services and are willing to pay, or for students who want to work off-time. There can be a separate section dedicated to this purpose, but it should not be the main focus of our app.
 
