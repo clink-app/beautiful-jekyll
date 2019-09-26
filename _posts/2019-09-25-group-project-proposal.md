@@ -1,10 +1,7 @@
 ---
 layout: post
-published: false
+published: true
 title: Group Project Proposal
-subtitle: ''
-date: ''
-image: ''
 ---
 ## Clink
 
