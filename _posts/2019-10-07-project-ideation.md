@@ -4,4 +4,4 @@ title: Project Ideation Drawings
 ---
 
 **series 1**
-[](project_ideation_1.jpg)
+[](/img/project_ideation_1.jpg)
