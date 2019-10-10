@@ -4,7 +4,7 @@ Layout: post
 Title: Task Review
 Subtitle: Six essential tasks
 published: true
-title: Untitled
+title: Task Review
 ---
 
 **Search Events based on Personal Preferences**
