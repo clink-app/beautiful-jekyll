@@ -1,7 +1,10 @@
 ---
+layout: post
 Layout: post
 Title: Task Review
 Subtitle: Six essential tasks
+published: true
+title: Untitled
 ---
 
 **Search Events based on Personal Preferences**
@@ -30,7 +33,7 @@ Subtitle: Six essential tasks
 
 **Share Events with Friends**
 
-- Henry is a local artist living in a neighborhood area of a college town. He makes a lot of artworks, especially comic design. As Henry paints in his studio mostly by himself, he gets bored sometimes. Thus, he comes up with an idea to organize weekly art classes. Especially, he wants to invite students from the college over to help him with his paintings, give critique, and learn some art skills at the same time. Unfortunately, since he is unaffiliated with the college, he cannot post his event there, and giving out posters alone is not enough to get students’ attention. Instead, he posts his event, with detailed description of his work, the time commitment each week, and the type of students he is looking for. The art lovers at the college can now see his added event through their calendar, as art is added as one of their “interested” events, and can now sign up to join his classes.
+- Sarah’s old father, Steve, is very unfamiliar with today’s technology. He has a phone, yet he barely downloads any apps or uses any new features. He only uses his phone to call Sarah and text her when she doesn’t pick up. Sarah knows that her father loves classical music and that this week there will be an interesting classical music event going on close to their house. However, since her father is unfamiliar with technology, he cannot get access to the information about the music event. So Sarah decides to share that event to her dad by adding his email address and phone number as the receiver. All Steve has to do is check his text messages, and he sees a pdf of the event page that Sarah sent him. It is easy for him to open this attachment in his messages, and he’s happy that he doesn’t have to navigate through a website or download an app himself. He sends a quick reply to Sarah saying “Yes”, and she adds it to her calendar.
 
 - This is an existing task. However, currently everything is added through communications, especially social platforms, so events are much more publicized and can be hard to be targeted at the true audience. Individual and small groups are usually not able to post on their own. Since this is an existing task, it is conceptually easy.
 
@@ -48,4 +51,4 @@ Subtitle: Six essential tasks
 
 - James is a busy college student with many interests. He lives in NYC, so there are always many events happening that he would like to attend-- this makes it that even when he narrowly sorts events, there are still many things to look through. This proves especially difficult because James doesn’t always know when he will be available, or even if he is available, so he is easily frustrated when trying to quickly choose an event that meets his needs. A recommender feature helps to address this problem, as when James chooses to turn on recommendations, he gets notified of a very select few events happening near his current location, based on his interests. The recommendations only happen when he has a significant block of time marked as free on his calendar, when he would usually be awake and active. They are also based on information such as time availability, the past events he’s been interested in, how he’s rated the events he attended, and transportation time/ geographic proximity to the event.
 
-- This is a new task, and we anticipate it will be one of our most difficult. It would be a very advanced technical feature, but the design will be conceptually difficult as well. We will need to balance how we weight different pieces of information, how we notify the user, with what frequency these notifications should sound (once a day for every free block of time? Only right before the free time, whenever it occurs?), as well as questions such as whether we stagger event start times and lengths, how much information a notification should give, what form should it take, and how the app should respond to a user clicking on the notification. 
+- This is a new task, and we anticipate it will be one of our most difficult. It would be a very advanced technical feature, but the design will be conceptually difficult as well. We will need to balance how we weight different pieces of information, how we notify the user, with what frequency these notifications should sound (once a day for every free block of time? Only right before the free time, whenever it occurs?), as well as questions such as whether we stagger event start times and lengths, how much information a notification should give, what form should it take, and how the app should respond to a user clicking on the notification.
