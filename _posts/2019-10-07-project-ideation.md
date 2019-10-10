@@ -13,6 +13,5 @@ published: true
 From top to bottom: Forms, Interactions, Features, Tasks
 
 **series 3**
+
 ![]({{site.baseurl}}/img/71823045_1330886627085336_1832218711872765952_n.jpg)
-
-
