@@ -8,5 +8,5 @@ title: Project Ideation Drawings
 
 
 **series 2**
-![](/img/project_ideation_2.jpg)
+![](/img/project_ideation2.jpg)
 From top to bottom: Forms, Interactions, Features, Tasks
