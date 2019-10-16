@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Design Review
-subtitle: 1x2: one design, two tasks
+subtitle: (1x2) one design, two tasks
 published: true
 ---
 
