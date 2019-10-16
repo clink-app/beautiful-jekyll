@@ -2,7 +2,9 @@
 layout: post
 title: Project Design Review
 subtitle: 1x2: one design, two tasks
+published: true
 ---
+
 **Which design and tasks, and why?**
 
 The tasks that we chose are manually searching for events based on interest, and giving event recommendations based on user interest and time availability. We chose these tasks because they are the most central to what we hope to accomplish: connecting people with community events. The first allows the user to perform a manual search themselves. This would be done when they want to personally survey their options and optimize their event choice, or if they are looking for some very particular kind of event. The second task focuses on giving recommendations that meet the specifications users lay out with regards to their personal interests, and suggests only the top matches for the user. The recommendation system integrates with the user’s personal calendar, so that recommendations are only made for events during times that the user is free and able to attend. Both the recommendation and the search are limited to the events meeting the interest, duration, and other specifications that the user has outlined in their profile. 
