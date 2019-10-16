@@ -28,7 +28,7 @@ Storyboard 1 shows the process of navigating from the homepage to the list of ev
 This storyboard also shows the process of setting up a user's profile, which is essential for setting interest defaults. These defaults will specify which types of events show up on the event calendar. These defaults can be refined through the temporary filtering function if you are searching for more speficic kinds of events, and can be permanently changed at any time in the profile!
  This profile section is also a necessary precursor for receiving recommended events, the task displayed in storyboard 2. 
 
-![storyboard3.jpg]({{site.baseurl}}/img/storyboard3.jpg)
+![](design-storyboard1.jpg)
 
 Storyboard 2 shows the process for receiving and refining recommended events. These events can be seen in the Clink! app, as well as through notifications. Users can set the parameters for when and how often notifications will be received, and the app will recommend the top events for you during times marked as being available in the user's personal calendar (which is linked in the user profile).
 
