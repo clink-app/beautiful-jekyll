@@ -32,4 +32,4 @@ This storyboard also shows the process of setting up a user's profile, which is 
 
 Storyboard 2 shows the process for receiving and refining recommended events. These events can be seen in the Clink! app, as well as through notifications. Users can set the parameters for when and how often notifications will be received, and the app will recommend the top events for you during times marked as being available in the user's personal calendar (which is linked in the user profile).
 
-![](/img/storyboard1.jpg)
+![](/img/design-storyboard2.jpg)
