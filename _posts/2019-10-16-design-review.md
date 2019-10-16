@@ -25,7 +25,7 @@ Clink! was born from the idea that most people suffer from information overload 
 
 Storyboard 1 shows the process of navigating from the homepage to the list of events (filtered by interest). From the event list, you can see more details about the event, or choose to add it to your personal event list. Clink! will send you reminder notifications prior to any of the events on your event list taking place. 
 
-This storyboard also shows the process of setting up a user's profile, which is essential for setting interest defaults. These defaults will specify which types of events show up on the event calendar. These defaults can be refined through the temporary filtering function if you are searching for more speficic kinds of events, and can be permanently changed at any time in the profile.!
+This storyboard also shows the process of setting up a user's profile, which is essential for setting interest defaults. These defaults will specify which types of events show up on the event calendar. These defaults can be refined through the temporary filtering function if you are searching for more speficic kinds of events, and can be permanently changed at any time in the profile!
  This profile section is also a necessary precursor for receiving recommended events, the task displayed in storyboard 2. 
 
 ![storyboard3.jpg]({{site.baseurl}}/img/storyboard3.jpg)
