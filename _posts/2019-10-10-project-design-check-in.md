@@ -41,7 +41,7 @@ This is a minimalist, pared-down design meant to reflect the idea that Clink! he
 
 This sketch illustrates how the design is meant to make it convenient for the users to post, share, schedule event and transportation to the event. One of the main issues we encounter during our contextual inquiries is that the reason behind most people’s refusal to attend community events is because of time management or transportation schedule. The app is meant to resolve this problem by having a reminder to the user that the event is happening, and schedule a form of transportation for them if needed. The ability to create events and share that event is also essential to our app design. One difficulty would be that while we’re trying to make it easier for the user to fill out their event information, we still would like to get as much information as possible in order to categorize this event for other users who might be looking for it. Sharing the event as a newsletter (PDF) form also helps the event receiver to just receive the event without the need to sign up for the app. 
 
-![]({{site.baseurl}}/img/storyboard2.jpg)
+![design_check_in2.jpg]({{site.baseurl}}/img/design_check_in2.jpg)
 
 - **Adding an event**: Having an online event form so event organizers can fill them out. We want as many details as possible in order to categorize the event: from event type to time commitment to transportation availability to requirements to join and extra information links. After the user fills out the form, the event will be saved into the database for a time range, and can be searched for by fellow event-lovers.
 
