@@ -20,3 +20,15 @@ The mobile element of the design is very important, because it is focused on peo
 **Why are these tasks more compelling than others?**
 
 Clink! was born from the idea that most people suffer from information overload when looking for events and activities to attend. Our contextual inquiries revealed that there were many sources of information available, but people tend to miss events they like because they have to scroll past so many events they don’t like. Having Clink! presort a list of events to only show ones that match your interests should simplify this process and be a feature everyone who wants to attend events can use. Based on the feedback we got from Glow and our in class discussions, people thought the event recommendations based on time availability and user interests would be an interesting feature. Thus, we included it as one of our two main tasks so that we could explore the idea more. It also ties in very well with our first featured task. The difference between the two tasks we chose are that the recommendation system automatically chooses an event based on user availability and preset preferences, while the searching feature shows all events that fit the user’s preferences and also allows the user to manually narrow or widen the search with additional filters and see all options. Both tasks are heavily focused on personalizing the activity finding experience for Clink! users, with varying degrees of manual effort.
+
+**Storyboards**
+
+Storyboard 1 shows the process of navigating from the homepage to the list of events (filtered by interest). From the event list, you can see more details about the event, or choose to add it to your personal event list. Clink! will send you reminder notifications prior to any of the events on your event list taking place. 
+
+This storyboard also shows the process of setting up a user's profile, which is essential for setting interest defaults. These defaults will specify which types of events show up on the event calendar. These defaults can be refined through the temporary filtering function if you are searching for more speficic kinds of events, and can be permanently changed at any time in the profile. This profile section is also a necessary precursor for receiving recommended events, the task displayed in storyboard 2. 
+
+![](/img/storyboard1.jpg)
+
+Storyboard 2 shows the process for receiving and refining recommended events. These events can be seen in the Clink! app, as well as through notifications. Users can set the parameters for when and how often notifications will be received, and the app will recommend the top events for you during times marked as being available in the user's personal calendar (which is linked in the user profile).
+
+![](/img/storyboard2.jpg)
