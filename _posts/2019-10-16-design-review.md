@@ -23,13 +23,10 @@ Clink! was born from the idea that most people suffer from information overload 
 
 **Storyboards**
 
-Storyboard 1 shows the process of navigating from the homepage to the list of events (filtered by interest). From the event list, you can see more details about the event, or choose to add it to your personal event list. Clink! will send you reminder notifications prior to any of the events on your event list taking place. 
+Storyboard 1 shows a person who has an empty schedule and wants to fill it with an activity. They use Clink! to check what events are going around them. Since there are too many events that show up, they add some filters to their profile so Clink! can show them only events related to their interests, which are animals and music. They also usually don't go to sport events but are feeling unusually sporty today so they add a temporary sport filter. Clink! then shows them all events that relate to animals, music, and sports. They check the events available again and see a baseball game they want to go to. They add the baseball game to their event list and now they have something fun to do today!
 
-This storyboard also shows the process of setting up a user's profile, which is essential for setting interest defaults. These defaults will specify which types of events show up on the event calendar. These defaults can be refined through the temporary filtering function if you are searching for more speficic kinds of events, and can be permanently changed at any time in the profile!
- This profile section is also a necessary precursor for receiving recommended events, the task displayed in storyboard 2. 
+![](/img/revised_storyboard_1.jpg)
 
-![](/img/design-storyboard1.jpg)
+Storyboard 2 shows the same user getting a notification from their phone. The notification lets them know that Clink! found a 5 hour chunk of free time in their schedule and has found some activities that would fit perfectly into that slot. The user taps the notification and is taken to a Clink! app page with three event suggestions that fit their interests and time constraints in their profile and schedule. The user sees a dog lovers meeting that sounds interesting and taps on it to check event details, since they only want to go if it is close by. It turns out the event is close by! They then add it to their event list. They now have a fun event to go to!
 
-Storyboard 2 shows the process for receiving and refining recommended events. These events can be seen in the Clink! app, as well as through notifications. Users can set the parameters for when and how often notifications will be received, and the app will recommend the top events for you during times marked as being available in the user's personal calendar (which is linked in the user profile).
-
-![](/img/design-storyboard2.jpg)
+![](/img/revised_storyboard_2.jpg)
