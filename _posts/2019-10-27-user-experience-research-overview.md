@@ -4,6 +4,7 @@ title: User Experience Research Overview
 ---
 
 **Clink! Creating Community through Connection**
+
 Team:
 - Phoebe Huang: Designer and Researcher
 - Michaela Smith: Designer and Researcher
