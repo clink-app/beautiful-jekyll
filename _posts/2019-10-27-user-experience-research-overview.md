@@ -3,9 +3,9 @@ layout: post
 title: User Experience Research Overview
 ---
 
-## **Clink! Creating Community through Connection**
+### **Clink! Creating Community through Connection**
 
-Team:
+## Team:
 - Phoebe Huang: Designer and Researcher
 - Michaela Smith: Designer and Researcher
 - Vy Nguyen: Designer and Researcher
