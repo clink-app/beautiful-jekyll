@@ -113,15 +113,17 @@ The two tasks that we chose for our final design are manually searching for even
 
 **Written Scenarios- “1x2”**
 
-Storyboard 1 shows a person who has an empty schedule and wants to fill it with an activity. They use Clink! to check what events are going around them. Since there are too many events that show up, they add some filters to their profile so Clink! can show them only events related to their interests, which are animals and music. They also usually don't go to sport events but are feeling unusually sporty today so they add a temporary sport filter. Clink! then shows them all events that relate to animals, music, and sports. They check the events available again and see a baseball game they want to go to. They add the baseball game to their event list and now they have something fun to do today!
+Scenario 1 (represented by Storyboard 1):
+Sam has an empty schedule and wants to fill it with an activity. They use Clink! to check what events are going around them. Since there are too many events that show up, they add some filters to their profile so Clink! can show them only events related to their interests, which are animals and music. They also usually don't go to sport events but are feeling unusually sporty today so they add a temporary sport filter. Clink! then shows them all events that relate to animals, music, and sports. They check the events available again and see a baseball game they want to go to. They add the baseball game to their event list and now they have something fun to do today!
 
-Storyboard 2 shows the same user getting a notification from their phone. The notification lets them know that Clink! found a 5 hour chunk of free time in their schedule and has found some activities that would fit perfectly into that slot. The user taps the notification and is taken to a Clink! app page with three event suggestions that fit their interests and time constraints in their profile and schedule. The user sees a dog lovers meeting that sounds interesting and taps on it to check event details, since they only want to go if it is close by. It turns out the event is close by! They then add it to their event list. They now have a fun event to go to!
+Scenario 2 (represented by Storyboard 2):
+The same user from scenario 1, Sam, is watching YouTube when they get a notification from their phone. The notification lets them know that Clink! has found a 5 hour chunk of free time in their schedule and has found some activities that would fit perfectly into that slot. Sam taps the notification and is taken to a Clink! app page with three event suggestions that fit their interests and time constraints in their profile and schedule. Sam sees a dog lovers meeting that sounds interesting and taps on it to check event details, since they only want to go if it is close by. It turns out the event is close by! They then add it to their event list. They now have a fun event to go to!
 
 **Storyboards of the selected design**
 
-Storyboard 1
+Storyboard 1, corresponding to scenario 1.
 ![](/img/revised_storyboard_1.jpg)
 
 
-Storyboard 2
+Storyboard 2, corresponding to scenario 2.
 ![](/img/revised_storyboard_2.jpg)
