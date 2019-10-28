@@ -3,7 +3,7 @@ layout: post
 title: User Experience Research Overview
 ---
 
-### **Clink! Creating Community through Connection**
+# **Clink! Creating Community through Connection**
 
 ## Team:
 - Phoebe Huang: Designer and Researcher
@@ -64,7 +64,7 @@ Errors: Users can fall back on the normal event calendar. There can be an implem
 
 ## **Proposed Design Sketches - “3x4” -**
 
-# Sketch One
+### Sketch One
 
 Our first proposed design is a minimalist, pared-down design meant to reflect the idea that Clink! helps to streamline and simplify the user’s social life. This design supports the tasks of setting up a time and place to meet with friends, gathering detailed information about an aspect of an event, adding the event to a personal calendar, and scheduling transportation to an event.
 
@@ -78,7 +78,7 @@ Our first proposed design is a minimalist, pared-down design meant to reflect th
 
 - **Schedule transportation**: Clink integrates with google maps as well as different transportation platforms, such as Lyft and Uber. This allows the user to see what their transport options are, and select the one that works best for them in terms of time, cost, and preference. If the person is planning to drive, parking availability approximations will be provided.
 
-# Sketch Two
+### Sketch Two
 
 Our second design sketch focuses on making it convenient for the users to manage their own schedules and events. It focuses on the tasks of posting events, sharing events, scheduling events, and scheduling transportation to events. 
 
@@ -93,7 +93,7 @@ Our second design sketch focuses on making it convenient for the users to manage
 - **Transportation schedule**: Once a person has indicated they’re interested in going to an event, the transportation schedule system can check whether there are transportation provided by the organization. If there is, it will specify a time and pickup location; if there isn’t, it will inform the user and ask if they want to schedule a uber/lift, and can automatically connect with the uber/lift app and get a car. All the user has to do is hop on and go!
 
 
-# Sketch Three
+### Sketch Three
 Our third design proposal focused on making the individual’s event planning experience more convenient on the host and attendee side. This design focused on the tasks of finding events that match user preferences, publicizing events with attributes that can be searched for, getting passive event recommendations, and arranging transportation.
 
 ![](/img/design_3_all.jpg)
@@ -121,9 +121,9 @@ The same user from scenario 1, Sam, is watching YouTube when they get a notifica
 
 ## **Storyboards of the selected design**
 
-# Storyboard 1, corresponding to scenario 1.
+### Storyboard 1, corresponding to scenario 1.
 ![](/img/revised_storyboard_1.jpg)
 
 
-# Storyboard 2, corresponding to scenario 2.
+### Storyboard 2, corresponding to scenario 2.
 ![](/img/revised_storyboard_2.jpg)
