@@ -121,9 +121,9 @@ The same user from scenario 1, Sam, is watching YouTube when they get a notifica
 
 ## **Storyboards of the selected design**
 
-### Storyboard 1, corresponding to scenario 1.
+ **Storyboard 1, corresponding to scenario 1.**
 [![](/img/revised_storyboard_1.jpg)](https://clink-app.github.io/2019-10-16-design-review/)
 
 
-### Storyboard 2, corresponding to scenario 2.
+**Storyboard 2, corresponding to scenario 2.**
 [![](/img/revised_storyboard_2.jpg)](https://clink-app.github.io/2019-10-16-design-review/)
