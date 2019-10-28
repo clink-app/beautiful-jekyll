@@ -66,7 +66,7 @@ Errors: Users can fall back on the normal event calendar. There can be an implem
 
 ### Sketch One
 
-Our first proposed design is a minimalist, pared-down design meant to reflect the idea that Clink! helps to streamline and simplify the user’s social life. This design supports the tasks of setting up a time and place to meet with friends, gathering detailed information about an aspect of an event, adding the event to a personal calendar, and scheduling transportation to an event.
+Our [first proposed design](https://clink-app.github.io/2019-10-10-project-design-check-in/) is a minimalist, pared-down design meant to reflect the idea that Clink! helps to streamline and simplify the user’s social life. This design supports the tasks of setting up a time and place to meet with friends, gathering detailed information about an aspect of an event, adding the event to a personal calendar, and scheduling transportation to an event.
 
 ![](/img/storyboard_meeting.jpg)
 
@@ -80,7 +80,7 @@ Our first proposed design is a minimalist, pared-down design meant to reflect th
 
 ### Sketch Two
 
-Our second design sketch focuses on making it convenient for the users to manage their own schedules and events. It focuses on the tasks of posting events, sharing events, scheduling events, and scheduling transportation to events. 
+Our [second design sketch](https://clink-app.github.io/2019-10-10-project-design-check-in/) focuses on making it convenient for the users to manage their own schedules and events. It focuses on the tasks of posting events, sharing events, scheduling events, and scheduling transportation to events. 
 
 ![design_check_in2.jpg]({{site.baseurl}}/img/design_check_in2.jpg)
 
@@ -94,7 +94,7 @@ Our second design sketch focuses on making it convenient for the users to manage
 
 
 ### Sketch Three
-Our third design proposal focused on making the individual’s event planning experience more convenient on the host and attendee side. This design focused on the tasks of finding events that match user preferences, publicizing events with attributes that can be searched for, getting passive event recommendations, and arranging transportation.
+Our [third design proposal](https://clink-app.github.io/2019-10-10-project-design-check-in/) focused on making the individual’s event planning experience more convenient on the host and attendee side. This design focused on the tasks of finding events that match user preferences, publicizing events with attributes that can be searched for, getting passive event recommendations, and arranging transportation.
 
 ![](/img/design_3_all.jpg)
 
@@ -106,24 +106,24 @@ Our third design proposal focused on making the individual’s event planning ex
 
 - **Transportation arrangement**: A user can schedule transportation to any event in their calendar that has a location. When the user selects such an event, they will get a list of several options of transportation and a google map view of their potential path. They can then select a method of transportation and have it scheduled in the app.
 
-We chose our third, mobile design for it’s minimal layout and clear progression from one task to another. It clearly displays what features users can engage with, including the tasks that are central to the purpose of the app as well as the supporting features, such as personalization of one’s profile to include what event specifications and search parameters should be the default.
+We [chose](https://clink-app.github.io/2019-10-16-design-review/) our third, mobile design for it’s minimal layout and clear progression from one task to another. It clearly displays what features users can engage with, including the tasks that are central to the purpose of the app as well as the supporting features, such as personalization of one’s profile to include what event specifications and search parameters should be the default.
 
-The two tasks that we chose for our final design are manually searching for events based on interest, and giving event recommendations based on user interest and time availability. We chose these tasks because they are the most central to what we hope to accomplish: connecting people with community events. The first allows the user to perform a manual search themselves. This would be done when they want to personally survey their options and optimize their event choice, or if they are looking for some very particular kind of event. The second task focuses on giving recommendations that meet the specifications users lay out with regards to their personal interests, and suggests only the top matches for the user. The recommendation system integrates with the user’s personal calendar, so that recommendations are only made for events during times that the user is free and able to attend. Both the recommendation and the search are limited to the events meeting the interest, duration, and other specifications that the user has outlined in their profile. 
+The two tasks that we [chose](https://clink-app.github.io/2019-10-16-design-review/) for our final design are manually searching for events based on interest, and giving event recommendations based on user interest and time availability. We chose these tasks because they are the most central to what we hope to accomplish: connecting people with community events. The first allows the user to perform a manual search themselves. This would be done when they want to personally survey their options and optimize their event choice, or if they are looking for some very particular kind of event. The second task focuses on giving recommendations that meet the specifications users lay out with regards to their personal interests, and suggests only the top matches for the user. The recommendation system integrates with the user’s personal calendar, so that recommendations are only made for events during times that the user is free and able to attend. Both the recommendation and the search are limited to the events meeting the interest, duration, and other specifications that the user has outlined in their profile. 
 
 
 ## **Written Scenarios- “1x2”**
 
-Scenario 1 (represented by Storyboard 1):
+[Scenario 1](https://clink-app.github.io/2019-10-16-design-review/) (represented by Storyboard 1):
 Sam has an empty schedule and wants to fill it with an activity. They use Clink! to check what events are going around them. Since there are too many events that show up, they add some filters to their profile so Clink! can show them only events related to their interests, which are animals and music. They also usually don't go to sport events but are feeling unusually sporty today so they add a temporary sport filter. Clink! then shows them all events that relate to animals, music, and sports. They check the events available again and see a baseball game they want to go to. They add the baseball game to their event list and now they have something fun to do today!
 
-Scenario 2 (represented by Storyboard 2):
+[Scenario 2](https://clink-app.github.io/2019-10-16-design-review/) (represented by Storyboard 2):
 The same user from scenario 1, Sam, is watching YouTube when they get a notification from their phone. The notification lets them know that Clink! has found a 5 hour chunk of free time in their schedule and has found some activities that would fit perfectly into that slot. Sam taps the notification and is taken to a Clink! app page with three event suggestions that fit their interests and time constraints in their profile and schedule. Sam sees a dog lovers meeting that sounds interesting and taps on it to check event details, since they only want to go if it is close by. It turns out the event is close by! They then add it to their event list. They now have a fun event to go to!
 
 ## **Storyboards of the selected design**
 
 ### Storyboard 1, corresponding to scenario 1.
-![](/img/revised_storyboard_1.jpg)
+[![](/img/revised_storyboard_1.jpg)](https://clink-app.github.io/2019-10-16-design-review/)
 
 
 ### Storyboard 2, corresponding to scenario 2.
-![](/img/revised_storyboard_2.jpg)
+[![](/img/revised_storyboard_2.jpg)](https://clink-app.github.io/2019-10-16-design-review/)
