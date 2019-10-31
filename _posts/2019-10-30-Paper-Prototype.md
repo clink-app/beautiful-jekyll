@@ -8,7 +8,7 @@ Here is an overview of all the components used in our paper prototype:
 
 ![](/img/Paper_prototype_all.jpg)
 
-
+### Task 1
 
 The following progression shows how task 1, searching and filtering for events, is performed.
 
@@ -19,11 +19,11 @@ The user can then click the button 'Find Events', which loads an list featuring 
 
 ![](/img/Paper_prototype_2.jpg)
 
-They can then scroll through the list to see more events.
+They can then scroll through the list to see more events. For each event, only the main information is shown.
 
 ![](/img/Paper_prototype_3.jpg)
 
-Selecting an event by tapping on it allows the user to view a page with more detailed information.
+Selecting an event by tapping on it allows the user to view a page with more detailed information. They can choose to add the event to their customized list if desired, or cancel to go back.
 
 ![](/img/Paper_prototype_4.jpg)
 
@@ -42,7 +42,9 @@ Expanding the filter section makes it possible for the user to add new filters, 
 The user can add a filter by starting to type any word. The menu will automatically populated with the most commonly searched for tags beginning with that sequence of characters, and will update as the user continues to type.
 
 ![](/img/Paper_prototype_6.jpg)
+
 ![](/img/Paper_prototype_7.jpg)
+
 ![](/img/Paper_prototype_8.jpg)
 
 Once the user sees the tag they want, they can select it to add to their filter list. 
@@ -50,28 +52,35 @@ selected "sport" from filter drop down options:
 
 ![](/img/Paper_prototype_9.jpg)
 
-Here, our user deselects the music and art filters by unchecking them. This is only a temporary change, since the defaults are still set in their profile. Now, they will only see events related to tehir sports filter. The event list is refreshed to match these filters as soon as the filters section is minimized.
+Here, our user deselects the music and art filters by unchecking them. This is only a temporary change, since the defaults are still set in their profile. Now, they will only see events related to their sports filter. The event list is refreshed to match these filters as soon as the filters section is minimized.
 
 ![](/img/Paper_prototype_10.jpg)
+
 ![](/img/Paper_prototype_11.jpg)
 
 They are then able to scroll through these events to find one that interests them, then select an event they want to know more about.
 
 ![](/img/Paper_prototype_12.jpg)
+
+Similarly, they can choose to add the event to their personal event list, or to go back to the previous page.
+
 ![](/img/Paper_prototype_13.jpg)
 
-Finally, the user can add this event to their personal event list.
+Once they decide to add it to their personal list, the page will show a confirmation, and they have the option of exploring their new event list.
 
 ![](/img/Paper_prototype_14.jpg)
 
-
+### Task 2
 
 Task 2, receiving personalized recommendations without searching manually, begins similarly to task one: on the home page. By design, this task requires much less work on the user's part. From the home page, they can select the 'Rec Me!' button to view their recommendations.
 
 ![](/img/Paper_prototype_1.jpg)
 
-Then, they can see a couple recommended events. Selecting either takes the user to the same kind of detailed event page seen earlier. From there, the user can choose to go back and get new recommendations, or add the event to their personal list.
+Then, they can see a couple recommended events. The events are recommended based on the user's past interaction history with the app, including their favorite tags and ratings of past events. Selecting either takes the user to the same kind of detailed event page seen earlier. From there, the user can choose to go back and get new recommendations, or add the event to their personal list.
 
 ![](/img/Paper_prototype_15.jpg)
+
+The rest of the process is similar to adding event in the previous task
+
 ![](/img/Paper_prototype_16.jpg)
 ![](/img/Paper_prototype_14.jpg)
