@@ -76,11 +76,8 @@ Task 2, receiving personalized recommendations without searching manually, begin
 
 ![](/img/Paper_prototype_1.jpg)
 
-Then, they can see a couple recommended events. The events are recommended based on the user's past interaction history with the app, including their favorite tags and ratings of past events. Selecting either takes the user to the same kind of detailed event page seen earlier. From there, the user can choose to go back and get new recommendations, or add the event to their personal list.
+Then, they can see a couple recommended events. The events are recommended based on the user's past interaction history with the app, including their favorite tags and ratings of past events. Selecting either takes the user to the same kind of detailed event page seen earlier. From there, the user can choose to go back and get new recommendations, or add the event to their personal list. This last step follows the same process as is shown previously in task one.
 
 ![](/img/Paper_prototype_15.jpg)
-
-The rest of the process is similar to adding event in the previous task
-
 ![](/img/Paper_prototype_16.jpg)
 ![](/img/Paper_prototype_14.jpg)
