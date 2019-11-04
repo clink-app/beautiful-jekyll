@@ -10,7 +10,7 @@ Vy conducted the first evaluation with Geoffrey (severity was rated out of 7 and
 
 Michaela and Phoebe conducted the second evaluation with Liv (severity was rated out of 10 and adjusted to a scale of 0-4 for our table).
 
-![](/img/Liv_eval.jpg)
+![](/img/liv_eval.jpg)
 
 
 | Heuristic Broken         | Description                                              | Severity |
