@@ -14,7 +14,7 @@ Vy conducted the first evaluation with Geoffrey.
 | Visibility       | Information felt relevent (location, description, etc.) | 0 |
 | Felxibility | Simplicity comes with a cost; seems like experienced users may be overwhelmed by events (maybe a proversion that's more tailored?) | 1 |
 
-Michaela and Phoebe conducted the second evaluation with Olivia.
+Michaela and Phoebe conducted the second evaluation with Liv.
 
 
 | Heuristic Broken         | Description                                              | Severity |
