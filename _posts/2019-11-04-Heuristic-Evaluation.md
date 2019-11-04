@@ -37,7 +37,7 @@ Michaela and Phoebe conducted the second evaluation with Liv (severity was rated
 
 ![heuristic_3.jpg]({{site.baseurl}}/img/heuristic_3.jpg)
 
-**Issue #4*8: Not an issue
+**Issue #4**: Not an issue
 
 **Issue #5**: Simplicity comes with a cost; seems like experienced users may be overwhelmed by events (maybe a proversion that's more tailored?)
 
@@ -45,4 +45,19 @@ Michaela and Phoebe conducted the second evaluation with Liv (severity was rated
 
 ![heuristic_6.jpg]({{site.baseurl}}/img/heuristic_6.jpg)
 
+**Issue #7**: There is no indication that the scroll bar can be used
+
+![](/img/HE_issue_7.jpg)
+
+**Issue #8**: Exiting filters: How to do it? 
+
+![](/img/HE_issue_8.jpg)
+
+**Issue #9**: What do the colors associated with each event mean?
+
+![](/img/HE_issue_9.jpg)
+
+**Issue #10**: What extra information appears when the event is clicked
+
+![](/img/HE_issue_10.jpg)
 
