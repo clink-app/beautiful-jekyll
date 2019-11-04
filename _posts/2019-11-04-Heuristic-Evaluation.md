@@ -25,3 +25,24 @@ Michaela and Phoebe conducted the second evaluation with Liv (severity was rated
 | 8 | Flexibility + Efficiency | Exiting filters: How to do it?                           | 3        |
 | 9 | Consistency              | What do the colors associated with each event mean?      | 1        |
 | 10 | Visibility               | What extra information appears when the event is clicked | 1        |
+
+**Issue #1**: Not an issue
+
+**Issue #2**: Interaction felt constrained, unable to respond to choices, give reviews, or dismiss items I don't like, report sketchy events
+
+![heuristic_2.jpg]({{site.baseurl}}/img/heuristic_2.jpg)
+![heuristic_2(2).jpg]({{site.baseurl}}/img/heuristic_2(2).jpg)
+
+**Issue #3**: Wording confusing: "rec me"
+
+![heuristic_3.jpg]({{site.baseurl}}/img/heuristic_3.jpg)
+
+**Issue #4*8: Not an issue
+
+**Issue #5**: Simplicity comes with a cost; seems like experienced users may be overwhelmed by events (maybe a proversion that's more tailored?)
+
+**Issue #6**: Cannot click the profile icon
+
+![heuristic_6.jpg]({{site.baseurl}}/img/heuristic_6.jpg)
+
+
