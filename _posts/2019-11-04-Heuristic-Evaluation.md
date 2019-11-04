@@ -34,30 +34,57 @@ Michaela and Phoebe conducted the second evaluation with Liv (severity was rated
 
 ![heuristic_2(2).jpg]({{site.baseurl}}/img/heuristic_2(2).jpg)
 
+**Our Revision**:
+![](/img/revised_prototype_options_dropdown.jpg)
+![](/img/revised_prototype_rate.jpg)
+![](/img/revised_prototype_dislike.jpg)
+![](/img/revised_prototype_report.jpg)
+
 **Issue #3**: Wording confusing: "rec me"
 
 ![heuristic_3.jpg]({{site.baseurl}}/img/heuristic_3.jpg)
+
+**Our Revision**
+![](/img/revised_prototype_home_page.jpg)
 
 **Issue #4**: Not an issue
 
 **Issue #5**: Simplicity comes with a cost; seems like experienced users may be overwhelmed by events (maybe a proversion that's more tailored?)
 
+**Our Revision**
+![](/img/revised_prototype_filter.jpg)
+
 **Issue #6**: Cannot click the profile icon
 
 ![heuristic_6.jpg]({{site.baseurl}}/img/heuristic_6.jpg)
+
+**Our Revision**
+![](/img/revised_prototype_profile.jpg)
+![](/img/revised_prototype_profile_editing.jpg)
 
 **Issue #7**: There is no indication that the scroll bar can be used
 
 ![](/img/HE_issue_7.jpg)
 
+**Our Revision**
+![](/img/revised_prototype_scroll.jpg)
+
 **Issue #8**: Exiting filters: How to do it? 
 
 ![](/img/HE_issue_8.jpg)
+
+**Our Revision**
+![](/img/revised_prototype_filter_button.jpg)
+![](/img/revised_prototype_filter.jpg)
 
 **Issue #9**: What do the colors associated with each event mean?
 
 ![](/img/HE_issue_9.jpg)
 
+**No Revision**: something about how the icons arent color coded, its just some image the poster wnats displayed etc
+
 **Issue #10**: What extra information appears when the event is clicked
 
 ![](/img/HE_issue_10.jpg)
+
+**No Revision**: didnt feel like it was neccessary to go too much into detail for specific events to test prototype
