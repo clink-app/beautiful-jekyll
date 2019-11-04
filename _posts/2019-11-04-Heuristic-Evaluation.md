@@ -4,6 +4,8 @@ title: Heuristic Evaluations
 published: true
 ---
 
+Vy conducted the first evaluation with Geoffrey.
+
 | Heuristic Broken | Description                                                                                                                    | Severity |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------|----------|
 | Aesthetic        | Color Scheme, cute drawings, uncluttered                                                                                       | 0        |
@@ -11,3 +13,5 @@ published: true
 | Real World       | wording confusing "rec me"                                                                                                     | 4        |
 | Visibility       | Information felt relevent (location, description, etc.) | 0 |
 | Felxibility | Simplicity comes with a cost; seems like experienced users may be overwhelmed by events (maybe a proversion that's more tailored?) | 1 |
+
+Michaela and Phoebe conducted the second evaluation with Olivia.
