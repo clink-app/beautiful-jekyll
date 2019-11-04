@@ -31,6 +31,7 @@ Michaela and Phoebe conducted the second evaluation with Liv (severity was rated
 **Issue #2**: Interaction felt constrained, unable to respond to choices, give reviews, or dismiss items I don't like, report sketchy events
 
 ![heuristic_2.jpg]({{site.baseurl}}/img/heuristic_2.jpg)
+
 ![heuristic_2(2).jpg]({{site.baseurl}}/img/heuristic_2(2).jpg)
 
 **Issue #3**: Wording confusing: "rec me"
@@ -60,4 +61,3 @@ Michaela and Phoebe conducted the second evaluation with Liv (severity was rated
 **Issue #10**: What extra information appears when the event is clicked
 
 ![](/img/HE_issue_10.jpg)
-
