@@ -4,13 +4,13 @@ title: Heuristic Evaluations
 published: true
 ---
 
-Vy conducted the first evaluation with Geoffrey.
+Vy conducted the first evaluation with Geoffrey (severity was rated out of 7 and adjusted to a scale of 0-4 for our table).
 
 ![](/img/geoffrey_eval.jpg)
 
-Michaela and Phoebe conducted the second evaluation with Liv.
+Michaela and Phoebe conducted the second evaluation with Liv (severity was rated out of 10 and adjusted to a scale of 0-4 for our table).
 
-![](/img/liv_eval.jpg)
+![](/img/Liv_eval.jpg)
 
 
 | Heuristic Broken         | Description                                              | Severity |
