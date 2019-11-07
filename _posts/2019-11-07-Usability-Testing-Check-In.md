@@ -22,6 +22,17 @@ We need to improve our testing process by making the changes from page to page o
 
 **Our cognitive walk through**
 
+
+| problem          | severity         |
++------------------+------------------+
+| 1. Not clear whether filters will be applied when added  |  3  |
+| 2. Not clear that user is meant to type in filters page  |  2  |
+| 3. Not clear that header icons could be clicked          |  2  |
+
+To solve problem one, an "apply" button was added to the filters page. 
+To solve problem two, we added a keyboard component to our paper prototype. This will signal to the user that they are meant to begin typing, and then they will see the list of tag suggestions based off of the letters they input.
+To address problem three, we added light shading around the clickable icons. We think this will make their function more clear to users of our paper prototype. We also don't anticipate this being as much of an issue with a digital mockup, since there will be more differentiation between buttons and text/ images.
+
 **Results from our first usability test**
 
 **Negative**
