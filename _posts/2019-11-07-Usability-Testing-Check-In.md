@@ -13,7 +13,7 @@ We conducted a usability test on Nov 6th with TN, a sophomore planning on majori
 - Add an event from the recommendation list to their event list.
 
 TN was quick to figure out how to find and scroll through events. However, they had trouble identifying how the temporary filter page works. They also found it difficult to differentiate between “find events” and “quick find”.
-As for the revisions, we would need to redesign the filter page so it’s easier to understand for the users. We would also need to rename the title “quick find” so it’s more reflective of the recommendation system we have in our app.
+As for the revisions, we would need to redesign the filter page so it’s easier to understand for the users. We would also need to provide the user with more information about the "quick find" feature and explain how it differs from "find events".
 
 Throughout the process, we learned how import it was to keep our user talking and speaking their thoughts out loud. Whenever TN was prompted to speak, they gave us valuable insight to what they were thinking when they made a certain action or why they weren't sure what action to take. These insights helped us develop revisions to our prototype.
 
@@ -34,7 +34,9 @@ TN revealed out loud that they could not tell what the difference between the tw
 
 Severity of 3
 
-revision image
+![](/img/UserTest1_recommendations.png)
+![](/img/UserTest1_recommendedDescription.png)
+To address this, we added an "information" icon to the recommendations page. This allows the user to access a description of the feature, explaining its purpose.
 
 
 **Incident 2**: Could not figure out how to edit the filter.
@@ -113,7 +115,45 @@ TN had no issue with getting the the more detailed page of an event and adding i
 
 TN clicked on the drop down menu on an event out of curiosity. They could tell immeadiately what it was for and knew it didn't have anything to do with their task so they closed out of the drop down menu without an issue.
 
-**Our current revised paper prototype**
-
 **Our plan for our remaining usability tests**
 For the remainder of our usability tests, we plan to target another Williams student with a (planned) major in the social sciences, and an older adult who is not in the college-student age range. These two users would be able to provide different points of view about the app other than TN, who is a relatively tech-savvy user.  We are also planning to have the users test our rating feature, in which, when they rate an attended event, will take note so as to recommend/not recommend it to them in the future. The current two tests, however, seem to be extensive enough to test all of the currently implemented parts of our prototype. We are still planning to have one member in the group taking on the role of a facilitator, and the other the Computer. Each team member will participate in at least 2 usability tests. As for new approaches, we would like to give a more detailed explanation of the given tasks before setting the users off to do them. It’s important to give them just enough information to understand their role and do the tasks, without giving away too much information.
+
+
+## Revised Prototype: Task Walkthrough
+
+**Our current revised paper prototype**
+![](userTest1_overview.png)
+
+# Task One: Filter and Find Event
+
+To complete this task, we first click on "find events", which navigates to the event list.
+![](/img/UserTest1_home.png)
+![](/img/UserTest1_eventList.png)
+
+If the user would like to add a filter, they click on "filters", which causes the revised filter page to pop up. The filters page shows their default filters, which were previously set in their profile. In this case, The filters currently applied are 'art' and 'music'. 
+![](/img/userTest1_startingFilters.png)
+
+In this walkthrough, the user would only like to search for sports events. They click the (x) to remove art and music filters, and begin typing "sports" to add a sports filter. They tap "apply" to save these changes. Now, only the sports filter is active.
+![](/img/userTest1_newFilters.png)
+
+Clicking the (x) on the filters menu takes the user back to the now-updated event list. It now only shows sports events.
+![](/img/userTest1_filteredEventList.png)
+
+After finding a sports event that interests them, they click on it. This takes them to a page with more details about the event.
+![](/img/userTest1_eventDetails.png)
+
+They then tap "add" to add the event to their personal event list. This causes the confirmation page to appear, which gives lets the user know the action was performed successfully.
+![](/img/userTest1_eventAddedComfirmation.png)
+
+# Task Two: View Personal Event Recommendations
+
+Tapping "quick find" takes the user to the personal event recommendation page. Since it was not entirely clear to the person testing our app how this feature differed than the first "find events" feature, we've added a (?) icon. 
+![](/img/userTest1_home.png)
+![](/img/userTest1_recommendations.png)
+
+Tapping the (?) icon allows the user to get more information about what the recommendation feature is and how recommendations are generated. 
+![](/img/userTest1_recommendedDescription.png)
+
+Tapping the (^) icon collapses this information box, and takes the user back to the recommendation page. From here, the user can either refresh the recommendations or view more details (and potentially add the event to their event list), as they can in the steps shown previously. 
+
+
