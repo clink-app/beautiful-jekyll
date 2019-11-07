@@ -22,49 +22,84 @@ As for the revisions, we would need to redesign the filter page so it’s easier
 
 **Negative**
 
-- Not sure what the difference between 'find events' and 'quick find' is. TN revealed out loud that they could not tell what the difference between the two buttons was. They tried both options in their first task. They also used "find events" in their second task because they wanted to find an event, it was what "worked last time," they knew it held their preferences, and they assumed all the events shown would fit their schedule.
+**Incident 1**: Not sure what the difference between 'find events' and 'quick find' is.
 
 ![](/img/Paper_prototype_1.jpg)
 
+TN revealed out loud that they could not tell what the difference between the two buttons was. They tried both options in their first task. They also used "find events" in their second task because they wanted to find an event, it was what "worked last time," they knew it held their preferences, and they assumed all the events shown would fit their schedule.
+
 Severity of 3
+
 revision image
 
-- Could not figure out how to edit the filter. TN clicked filter, saw that it only had tags for what we mentioned was already set as a preference in the profile, and assumed that was all it was, exiting from filter to try quick find instead. The next time TN entered the filters page they had a realization that the tags on the page had 'x's and could be removed. They revealed to us that they 'saw what was going on now' and that while they thought the filter could add tags, it can only remove tags. They did not see the text box for typing and adding a new tag to the filter.
-image
-severity of 4
+
+**Incident 2**: Could not figure out how to edit the filter.
+
+![](/img/revised_prototype_filter.jpg)
+
+- TN clicked filter, saw that it only had tags for what we mentioned was already set as a preference in the profile, and assumed that was all it was, exiting from filter to try quick find instead. The next time TN entered the filters page they had a realization that the tags on the page had 'x's and could be removed. They revealed to us that they 'saw what was going on now' and that while they thought the filter could add tags, it can only remove tags. They did not see the text box for typing and adding a new tag to the filter.
+
+- Severity of 4
+
 revision image
 
-- Not intuitive to find home page. TN had trouble getting back to the home page and asked out loud how to get there. We gave a hint to guide them back to the home page: "What looks like it might take you back to the page you started on?" From there, TN clicked the header to go back to the home page.
-image
+**Incident 3**: Not intuitive to find home page.
+
+![](/img/UT_issue_header.jpg)
+
+- TN had trouble getting back to the home page and asked out loud how to get there. We gave a hint to guide them back to the home page: "What looks like it might take you back to the page you started on?" From there, TN clicked the header to go back to the home page.
+
 Severity of 3
-revision image
 
-- Thought profile icon was decorative. TN didn't click on the profile icon at first because they thought it was 'purely decorative'.
-image
+![](/img/revised_prototype_header.jpg)
+
+We added a circle around the logo in the header to make it appear more clickable.
+
+**Incident 4**: Thought profile icon was decorative.
+
+![](/img/UT_issue_profile_icon.jpg)
+
+- TN didn't click on the profile icon at first because they thought it was 'purely decorative'.
+
 Severity of 1
+
+![](/img/UT_profile_icon.jpg)
+
+We made the icon more recognizable as a person by adding a smiley face to the figure.
+
+**Incident 5**: Couldn't figure out how to edit the profile.
+
+![](/img/revised_prototype_profile_editing.jpg)
+
+TN got to the edit profile page but could not figure out how to make an edit. We gave the hint: "Does anything look like it can be removed?" TN then clicked on the 'x' next to the music tag. They saved the page and revealed that they were looking for some way to make a keyboard pop up or get suggestions of tags to add. We gave them another hint: "Try going back to what you were just doing." TN clicked edit again and tapped randomly on the page around the tags until they hit the text box and our computer revealed the keyboard.
+
+Severity of 4
+
 revision image
 
--Couldn't figure out how to edit the profile without a hint. TN got to the edit profile page but could not figure out how to make an edit. We gave the hint: "Does anything look like it can be removed?" TN then clicked on the 'x' next to the music tag. They saved the page and revealed that they were looking for some way to make a keyboard pop up or get suggestions of tags to add. We gave them another hint: "Try going back to what you were just doing." TN clicked edit again and tapped randomly on the page around the tags until they hit the text box and our computer revealed the keyboard.
-image
-severity of 4
-revision image
+**Incident 6**: Did not 'apply' changes to filter
 
-- Did not 'apply' changes to filter. TN did not realize the filter was scrollable and so did not realize that the filter had an 'apply' and 'cancel' button. After making changes to the filter, TN clicked the 'x' at the top of the filter page to exit out of it, assuming that would automatically apply the new filter.
-image
-severity of 3
+![](/img/revised_prototype_filter.jpg)
+
+TN did not realize the filter was scrollable and so did not realize that the filter had an 'apply' and 'cancel' button. After making changes to the filter, TN clicked the 'x' at the top of the filter page to exit out of it, assuming that would automatically apply the new filter.
+
+Severity of 3
+
 revision image
 
 **Positive**
 
-- Scrolled down list of events. TN could tell that the list of events was scrollable and did so to find an event they liked.
-image
+**Incident 6**: Scrolled down list of events.
 
-- Added event to event list. TN had no issue with getting the the more detailed page of an event and adding it to the event list.
-image
+TN could tell that the list of events was scrollable and did so to find an event they liked.
 
-- Clicked on the drop down menu on an event out of curiosity. TN could tell immeadiately what it was for and knew it didn't have anything to do with their task so they closed out of the drop down menu without an issue.
-image
+**Incident 7**: Added event to event list.
 
+TN had no issue with getting the the more detailed page of an event and adding it to the event list.
+
+**Incident 8**: Figured out how to access the 'RATE, DISLIKE, REPORT' menu.
+
+TN clicked on the drop down menu on an event out of curiosity. They could tell immeadiately what it was for and knew it didn't have anything to do with their task so they closed out of the drop down menu without an issue.
 
 **Our current revised paper prototype**
 
