@@ -24,7 +24,7 @@ As for the revisions, we would need to redesign the filter page so it’s easier
 
 **Incident 1**: Not sure what the difference between 'find events' and 'quick find' is.
 
-![](/img/Paper_prototype_1.jpg)
+![](/img/revised_prototype_home_page.jpg)
 
 TN revealed out loud that they could not tell what the difference between the two buttons was. They tried both options in their first task. They also used "find events" in their second task because they wanted to find an event, it was what "worked last time," they knew it held their preferences, and they assumed all the events shown would fit their schedule.
 
@@ -41,7 +41,8 @@ revision image
 
 - Severity of 4
 
-revision image
+![](/img/UT_revised_filter.jpg)
+We got rid of the typing text boxes and now have one text box for both the existing tags and where users can type in new tags, similar to how the edit profile page is structured.
 
 **Incident 3**: Not intuitive to find home page.
 
@@ -85,7 +86,8 @@ TN did not realize the filter was scrollable and so did not realize that the fil
 
 Severity of 3
 
-revision image
+![](/img/UT_revised_filter.jpg)
+We moved the apply button to the top of the filter so it was visible as soon as the filter was opened.
 
 **Positive**
 
