@@ -6,14 +6,18 @@ published: true
 
 **Our first usability test**
 
-We conducted a usability test on Nov 6th with TN, a sophomore planning on majoring in CS at Williams. The test is carried out in Eco Cafe, since it is a convenient location for our tester. Phoebe took on the job as the Facilitator. She explained the task and asked TN to explain their thought process as they navigated through the app. Vy was the Computer. The provided tasks include
+We conducted a usability test on Nov 6th with TN, a sophomore planning on majoring in CS at Williams. The test is carried out in Eco Cafe, since it is a quiet, convenient, and comfortable location for our tester. Phoebe took on the job as the Facilitator. She explained the general purpose of the app, the tasks, and asked TN to explain their thought process as they navigated through the app. Vy was the Computer. The app was described as a tool to help users find events they are interested in. TN was told that each user gets a profile page where they can set fixed preferences for events. They were also given a brief introduction to the recommendation system, where the app has integrated the user's personal calender and recommends events that fit into detected blocks of free time and the user's fixed preferences. The tasks given to TN were:
 
 - You are a user of the Clink app with the fixed preferences set for art and music. Find and add a sports event to your event list.
 
-- Look for the recommended event list and add one of these events to the event list.
+- Add an event from the recommendation list to their event list.
 
 TN was quick to figure out how to find and scroll through events. However, they had trouble identifying how the temporary filter page works. They also found it difficult to differentiate between “find events” and “quick find”.
 As for the revisions, we would need to redesign the filter page so it’s easier to understand for the users. We would also need to rename the title “quick find” so it’s more reflective of the recommendation system we have in our app.
+
+Throughout the process, we learned how import it was to keep our user talking and speaking their thoughts out loud. Whenever TN was prompted to speak, they gave us valuable insight to what they were thinking when they made a certain action or why they weren't sure what action to take. These insights helped us develop revisions to our prototype.
+
+We need to improve our testing process by making the changes from page to page of our prototype more smooth and quick so that our user isn't waiting for us constantly. We should also create a more specific senario for our user so they have a better idea of what their tasks are and a more concrete purpose as they navigate the prototype.
 
 
 **Our cognitive walk through**
