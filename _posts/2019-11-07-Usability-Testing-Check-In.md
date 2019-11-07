@@ -46,8 +46,8 @@ TN revealed out loud that they could not tell what the difference between the tw
 
 Severity of 3
 
-![](/img/UserTest1_recommendations.png)
-![](/img/UserTest1_recommendedDescription.png)
+![](/img/userTest1_recommendations.png)
+![](/img/userTest1_recommendedDescription.png)
 To address this, we added an "information" icon to the recommendations page. This allows the user to access a description of the feature, explaining its purpose.
 
 
