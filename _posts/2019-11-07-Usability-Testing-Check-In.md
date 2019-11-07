@@ -4,6 +4,21 @@ title: Usability Testing Check-In
 published: true
 ---
 
+# Our cognitive walk through
+
+| problem          | severity         |
+|------------------ | ------------------ |
+| 1. Not clear whether filters will be applied when added  |  3  |
+| 2. Not clear that user is meant to type in filters page  |  2  |
+| 3. Not clear that header icons could be clicked          |  2  |
+
+To solve problem one, an "apply" button was added to the filters page. 
+To solve problem two, we added a keyboard component to our paper prototype. This will signal to the user that they are meant to begin typing, and then they will see the list of tag suggestions based off of the letters they input.
+To address problem three, we added light shading around the clickable icons. We think this will make their function more clear to users of our paper prototype. We also don't anticipate this being as much of an issue with a digital mockup, since there will be more differentiation between buttons and text/ images.
+
+Note: Most of these changes were not implemented until after our first usability test (the keyboard prototype piece was added prior to the user test).
+
+
 # Our first usability test
 
 We conducted a usability test on Nov 6th with TN, a sophomore planning on majoring in CS at Williams. The test is carried out in Eco Cafe, since it is a quiet, convenient, and comfortable location for our tester. Phoebe took on the job as the Facilitator. She explained the general purpose of the app, the tasks, and asked TN to explain their thought process as they navigated through the app. Vy was the Computer. The app was described as a tool to help users find events they are interested in. TN was told that each user gets a profile page where they can set fixed preferences for events. They were also given a brief introduction to the recommendation system, where the app has integrated the user's personal calender and recommends events that fit into detected blocks of free time and the user's fixed preferences. The tasks given to TN were:
@@ -18,20 +33,6 @@ As for the revisions, we would need to redesign the filter page so it’s easier
 Throughout the process, we learned how import it was to keep our user talking and speaking their thoughts out loud. Whenever TN was prompted to speak, they gave us valuable insight to what they were thinking when they made a certain action or why they weren't sure what action to take. These insights helped us develop revisions to our prototype.
 
 We need to improve our testing process by making the changes from page to page of our prototype more smooth and quick so that our user isn't waiting for us constantly. We should also create a more specific senario for our user so they have a better idea of what their tasks are and a more concrete purpose as they navigate the prototype.
-
-
-**Our cognitive walk through**
-
-
-| problem          | severity         |
-|------------------ | ------------------ |
-| 1. Not clear whether filters will be applied when added  |  3  |
-| 2. Not clear that user is meant to type in filters page  |  2  |
-| 3. Not clear that header icons could be clicked          |  2  |
-
-To solve problem one, an "apply" button was added to the filters page. 
-To solve problem two, we added a keyboard component to our paper prototype. This will signal to the user that they are meant to begin typing, and then they will see the list of tag suggestions based off of the letters they input.
-To address problem three, we added light shading around the clickable icons. We think this will make their function more clear to users of our paper prototype. We also don't anticipate this being as much of an issue with a digital mockup, since there will be more differentiation between buttons and text/ images.
 
 **Results from our first usability test**
 
