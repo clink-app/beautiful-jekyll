@@ -122,13 +122,13 @@ For the remainder of our usability tests, we plan to target another Williams stu
 # Revised Prototype: Task Walkthrough
 
 **Our current revised paper prototype**
-![](userTest1_overview.png)
+![](/img/userTest1_overview.png)
 
 ## Task One: Filter and Find Event
 
 To complete this task, we first click on "find events", which navigates to the event list.
-![](/img/UserTest1_home.png)
-![](/img/UserTest1_eventList.png)
+![](/img/userTest1_home.png)
+![](/img/userTest1_eventList.png)
 
 If the user would like to add a filter, they click on "filters", which causes the revised filter page to pop up. The filters page shows their default filters, which were previously set in their profile. In this case, The filters currently applied are 'art' and 'music'. 
 ![](/img/userTest1_startingFilters.png)
