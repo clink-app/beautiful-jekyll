@@ -24,7 +24,7 @@ We need to improve our testing process by making the changes from page to page o
 
 
 | problem          | severity         |
-+------------------+------------------+
+|------------------ | ------------------ |
 | 1. Not clear whether filters will be applied when added  |  3  |
 | 2. Not clear that user is meant to type in filters page  |  2  |
 | 3. Not clear that header icons could be clicked          |  2  |
