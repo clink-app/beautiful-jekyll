@@ -4,7 +4,7 @@ title: Usability Testing Check-In
 published: true
 ---
 
-**Our first usability test**
+# Our first usability test
 
 We conducted a usability test on Nov 6th with TN, a sophomore planning on majoring in CS at Williams. The test is carried out in Eco Cafe, since it is a quiet, convenient, and comfortable location for our tester. Phoebe took on the job as the Facilitator. She explained the general purpose of the app, the tasks, and asked TN to explain their thought process as they navigated through the app. Vy was the Computer. The app was described as a tool to help users find events they are interested in. TN was told that each user gets a profile page where they can set fixed preferences for events. They were also given a brief introduction to the recommendation system, where the app has integrated the user's personal calender and recommends events that fit into detected blocks of free time and the user's fixed preferences. The tasks given to TN were:
 
@@ -119,12 +119,12 @@ TN clicked on the drop down menu on an event out of curiosity. They could tell i
 For the remainder of our usability tests, we plan to target another Williams student with a (planned) major in the social sciences, and an older adult who is not in the college-student age range. These two users would be able to provide different points of view about the app other than TN, who is a relatively tech-savvy user.  We are also planning to have the users test our rating feature, in which, when they rate an attended event, will take note so as to recommend/not recommend it to them in the future. The current two tests, however, seem to be extensive enough to test all of the currently implemented parts of our prototype. We are still planning to have one member in the group taking on the role of a facilitator, and the other the Computer. Each team member will participate in at least 2 usability tests. As for new approaches, we would like to give a more detailed explanation of the given tasks before setting the users off to do them. It’s important to give them just enough information to understand their role and do the tasks, without giving away too much information.
 
 
-## Revised Prototype: Task Walkthrough
+# Revised Prototype: Task Walkthrough
 
 **Our current revised paper prototype**
 ![](userTest1_overview.png)
 
-# Task One: Filter and Find Event
+## Task One: Filter and Find Event
 
 To complete this task, we first click on "find events", which navigates to the event list.
 ![](/img/UserTest1_home.png)
@@ -145,7 +145,7 @@ After finding a sports event that interests them, they click on it. This takes t
 They then tap "add" to add the event to their personal event list. This causes the confirmation page to appear, which gives lets the user know the action was performed successfully.
 ![](/img/userTest1_eventAddedComfirmation.png)
 
-# Task Two: View Personal Event Recommendations
+## Task Two: View Personal Event Recommendations
 
 Tapping "quick find" takes the user to the personal event recommendation page. Since it was not entirely clear to the person testing our app how this feature differed than the first "find events" feature, we've added a (?) icon. 
 ![](/img/userTest1_home.png)
