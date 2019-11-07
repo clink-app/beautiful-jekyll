@@ -23,7 +23,9 @@ As for the revisions, we would need to redesign the filter page so it’s easier
 **Negative**
 
 - Not sure what the difference between 'find events' and 'quick find' is. TN revealed out loud that they could not tell what the difference between the two buttons was. They tried both options in their first task. They also used "find events" in their second task because they wanted to find an event, it was what "worked last time," they knew it held their preferences, and they assumed all the events shown would fit their schedule.
-image
+
+![](/img/Paper_prototype_1.jpg)
+
 Severity of 3
 revision image
 
@@ -47,7 +49,7 @@ image
 severity of 4
 revision image
 
-- Did not realize that the filter had an 'apply' and 'cancel' button. After making changes to the filter, TN clicked the 'x' at the top of the filter page to exit out of it.
+- Did not 'apply' changes to filter. TN did not realize the filter was scrollable and so did not realize that the filter had an 'apply' and 'cancel' button. After making changes to the filter, TN clicked the 'x' at the top of the filter page to exit out of it, assuming that would automatically apply the new filter.
 image
 severity of 3
 revision image
