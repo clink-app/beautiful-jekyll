@@ -37,9 +37,9 @@ revision image
 
 ![](/img/revised_prototype_filter.jpg)
 
-- TN clicked filter, saw that it only had tags for what we mentioned was already set as a preference in the profile, and assumed that was all it was, exiting from filter to try quick find instead. The next time TN entered the filters page they had a realization that the tags on the page had 'x's and could be removed. They revealed to us that they 'saw what was going on now' and that while they thought the filter could add tags, it can only remove tags. They did not see the text box for typing and adding a new tag to the filter.
+TN clicked filter, saw that it only had tags for what we mentioned was already set as a preference in the profile, and assumed that was all it was, exiting from filter to try quick find instead. The next time TN entered the filters page they had a realization that the tags on the page had 'x's and could be removed. They revealed to us that they 'saw what was going on now' and that while they thought the filter could add tags, it can only remove tags. They did not see the text box for typing and adding a new tag to the filter.
 
-- Severity of 4
+Severity of 4
 
 ![](/img/UT_revised_filter.jpg)
 We got rid of the typing text boxes and now have one text box for both the existing tags and where users can type in new tags, similar to how the edit profile page is structured.
@@ -48,7 +48,7 @@ We got rid of the typing text boxes and now have one text box for both the exist
 
 ![](/img/UT_issue_header.jpg)
 
-- TN had trouble getting back to the home page and asked out loud how to get there. We gave a hint to guide them back to the home page: "What looks like it might take you back to the page you started on?" From there, TN clicked the header to go back to the home page.
+TN had trouble getting back to the home page and asked out loud how to get there. We gave a hint to guide them back to the home page: "What looks like it might take you back to the page you started on?" From there, TN clicked the header to go back to the home page.
 
 Severity of 3
 
@@ -74,9 +74,9 @@ We made the icon more recognizable as a person by adding a smiley face to the fi
 
 TN got to the edit profile page but could not figure out how to make an edit. We gave the hint: "Does anything look like it can be removed?" TN then clicked on the 'x' next to the music tag. They saved the page and revealed that they were looking for some way to make a keyboard pop up or get suggestions of tags to add. We gave them another hint: "Try going back to what you were just doing." TN clicked edit again and tapped randomly on the page around the tags until they hit the text box and our computer revealed the keyboard.
 
-Severity of 4
+Severity of 2
 
-revision image
+We chose not to revise the interface of our edit profile page because TN figured out how to use it and said their main issue with figuring out how to use the page was that the tags were taking up the entire interest box and made it look uneditable. In the future tests, we will be more careful in placing our tags lined up with the top and left side of the box so that it is more obvious that there is room in the box to add more tags.
 
 **Incident 6**: Did not 'apply' changes to filter
 
@@ -93,13 +93,19 @@ We moved the apply button to the top of the filter so it was visible as soon as 
 
 **Incident 6**: Scrolled down list of events.
 
+![](/img/revised_prototype_scroll_bar.jpg)
+
 TN could tell that the list of events was scrollable and did so to find an event they liked.
 
 **Incident 7**: Added event to event list.
 
+![](/img/Paper_prototype_4.jpg)
+
 TN had no issue with getting the the more detailed page of an event and adding it to the event list.
 
 **Incident 8**: Figured out how to access the 'RATE, DISLIKE, REPORT' menu.
+
+![](/img/revised_prototype_options_dropdown.jpg)
 
 TN clicked on the drop down menu on an event out of curiosity. They could tell immeadiately what it was for and knew it didn't have anything to do with their task so they closed out of the drop down menu without an issue.
 
