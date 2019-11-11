@@ -23,7 +23,6 @@ published: true
 | 2. (Still) not clear that user is meant to type in filters page  |  2  |
 | 3. meaning of "quick find" unclear        |  4  |
 | 4. function of "rate" unclear-- how is it different from like/dislike?        |  3  |
-| 5. Unclear what exactly the filter menu changed-- how is it different from profile?        |  3  |
 
 
 ### Test 3
