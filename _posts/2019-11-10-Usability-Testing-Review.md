@@ -23,6 +23,7 @@ published: true
 | 2. (Still) not clear that user is meant to type in filters page  |  2  |
 | 3. meaning of "quick find" unclear        |  4  |
 | 4. function of "rate" unclear-- how is it different from like/dislike?        |  3  |
+| 5. Unclear what exactly the filter menu changed-- how is it different from profile?        |  3  |
 
 
 ### Test 3
@@ -32,7 +33,7 @@ published: true
 | 1. Meaning of "quick find" unclear  |  4  |
 | 2. Would be helpful to have "events list" implemented  |  2  |
 
-*Note: the change addressing problem two from the second user test (adding greyed out text telling the user to 
+*Note: the change addressing problem two from the second user test (adding greyed out text signifying that the user can type) was implemented after user test 2, before user test 3.
 
 
 # Results
