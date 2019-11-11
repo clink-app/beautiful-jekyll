@@ -40,7 +40,7 @@ A more detailed description of these issues and how we resolved them can be foun
 | 3. Meaning of "quick find" unclear        |  4  |
 | 4. Function of "rate" unclear-- how is it different from like/dislike?        |  3  |
 
-** Issue 1: Unsure about the difference between "apply" and "(x)" on filter menu **
+**Issue 1: Unsure about the difference between "apply" and "(x)" on filter menu
 
 ![](/img/test-review-t2i1.png)
 
@@ -50,7 +50,7 @@ We revised our filter page to have an apply button and a cancel button, getting 
 
 ![](/img/test-review-apply-cancel-filter.png)
 
-** Issue 2: (Still) not clear that user is meant to type in filters page **
+**Issue 2: (Still) not clear that user is meant to type in filters page
 
 It took a while for AA to figure out how to create a new tag on the filter page because it was not clear how the user could type into the text box we had prepared. They eventually figured it out without prompt, but only after several rounds of opening and closing the filters page and tapping around the screen to find a trigger for typing.
 
@@ -58,7 +58,7 @@ We revised our prototype so that there was greyed out text at the top of each te
 
 ![](/img/user-test-filter.jpg)
 
-** Issue 3: Meaning of "quick find" unclear **
+**Issue 3: Meaning of "quick find" unclear
 
 ![](/img/test-review-quick-find.png)
 
@@ -66,7 +66,7 @@ During task 2, AA was able to figure out what "quick find" was but noted that it
 
 We implemented the revision to this issue after completing test 3, in which it also came up (see issue 1 under test 3 below).
 
-** Issue 4: Function of "rate" unclear-- how is it different from like/dislike? **
+**Issue 4: Function of "rate" unclear-- how is it different from like/dislike?
 
 ![](/img/test-review-drop-down.png)
 
@@ -79,7 +79,7 @@ AA clicked on the drop down button during testing but did not interact with the 
 | 1. Meaning of "quick find" unclear  |  4  |
 | 2. Would be helpful to have "events list" implemented  |  2  |
 
-** Issue 1: Meaning of "quick find" unclear **
+**Issue 1: Meaning of "quick find" unclear
 
 ![](/img/test-review-quick-find.png)
 
@@ -89,7 +89,7 @@ We replaced the text on the button in question to say "recommended for me" inste
 
 ![](/img/test-review-rec-for-me.png)
 
-** Issue 2: Would be helpful to have "events list" implemented **
+**Issue 2: Would be helpful to have "events list" implemented
 
 ![](/img/test-review-my-events.png) ![](/img/test-review-see-my-list.png)
 
