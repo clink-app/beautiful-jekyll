@@ -48,13 +48,13 @@ AA described their thought process while trying to change the filters during tas
 
 We revised our filter page to have an apply button and a cancel button, getting rid of the "(x)" button. We hope this makes it more clear to the user how they should save their edits.
 
-![] (/img/test-review-apply-cancel-filter.png)
+![](/img/test-review-apply-cancel-filter.png)
 
 ** Issue 2: (Still) not clear that user is meant to type in filters page **
 
 ** Issue 3: Meaning of "quick find" unclear **
 
-![] (/img/test-review-quick-find.png)
+![](/img/test-review-quick-find.png)
 
 During task 2, AA was able to figure out what "quick find" was but noted that it was unclear during their testing process. They explained that it was not intuitive to click to find recommended events.
 
@@ -62,7 +62,7 @@ We implemented the revision to this issue after completing test 3, in which it a
 
 ** Issue 4: Function of "rate" unclear-- how is it different from like/dislike? **
 
-![] (/img/test-review-drop-down.png)
+![](/img/test-review-drop-down.png)
 
 AA clicked on the drop down button during testing but did not interact with the menu because they were able to immeadiately realize it didn't have anything to do with their task. However, they did mention that, at a glance, they didn't really know what clicking "rate" would do and how it would be different from clicking "dislike" instead.
 
@@ -75,13 +75,13 @@ AA clicked on the drop down button during testing but did not interact with the 
 
 ** Issue 1: Meaning of "quick find" unclear
 
-![] (/img/test-review-quick-find.png)
+![](/img/test-review-quick-find.png)
 
 KS couldn't tell from the name that "quick find" was a way to find recommended events. They thought had to go to the profile to find recommended event, similar to how Spotify shows its users recommendations under the user's playlists.
 
 We fichanged
 
-![] (/img/test-review-rec-for-me.png)
+![](/img/test-review-rec-for-me.png)
 
 *Note: the change addressing problem two from the second user test (adding greyed out text signifying that the user can type) was implemented after user test 2, before user test 3.
 
