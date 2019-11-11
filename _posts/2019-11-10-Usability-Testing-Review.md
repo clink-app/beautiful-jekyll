@@ -42,5 +42,8 @@ published: true
 
 # Revised Prototype
 
+![user-test-filter]({{site.baseurl}}/img/user-test-filter.jpg)
+
+![Recommended-for-me]({{site.baseurl}}/img/user-test-quick-find.jpg)
 
 # Our biggest issues and our solutions
