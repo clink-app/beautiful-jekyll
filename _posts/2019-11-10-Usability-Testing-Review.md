@@ -49,11 +49,43 @@ For each of our tests, the group member that was familiar with the tester and as
 
 *Note: the change addressing problem two from the second user test (adding greyed out text signifying that the user can type) was implemented after user test 2, before user test 3.
 
-# Revised Prototype
+# Revised Prototype: Task Walkthrough
 
-![user-test-filter]({{site.baseurl}}/img/user-test-filter.jpg)
+After all of our revisions, below is the overview of all our prototype components:
 
+![user-review-overview.jpg]({{site.baseurl}}/img/user-review-overview.jpg)
+
+Walk through of our 2 tasks:
+
+**Task One: Filter and Find Event**
+
+To complete this task, we first click on "find events", which navigates to the event list.
 ![Recommended-for-me]({{site.baseurl}}/img/user-test-quick-find.jpg)
+![](/img/userTest1_eventList.png)
+
+If the user would like to add a filter, they click on "filters", which causes the revised filter page to pop up. The filters page shows their default filters, which were previously set in their profile. In this case, The filters originally applied are 'art' and 'music'. In this walkthrough, the user would only like to search for sports events. They click the (x) to remove art and music filters, and begin typing "sports" to add a sports filter. They tap "apply" to save these changes. Now, only the sports filter is active.
+
+![user-test-filter-cancel.jpg]({{site.baseurl}}/img/user-test-filter-cancel.jpg)
+
+Clicking the APPLY button on the filters menu takes the user back to the now-updated event list. It now only shows sports events.
+![](/img/userTest1_filteredEventList.png)
+
+After finding a sports event that interests them, they click on it. This takes them to a page with more details about the event.
+![](/img/userTest1_eventDetails.png)
+
+They then tap "add" to add the event to their personal event list. This causes the confirmation page to appear, which gives lets the user know the action was performed successfully.
+![](/img/userTest1_eventAddedComfirmation.png)
+
+**Task Two: View Personal Event Recommendations**
+
+Tapping "recommended for me" takes the user to the personal event recommendation page. Since it was not entirely clear to the person testing our app how this feature differed than the first "find events" feature, we've added a (?) icon. 
+![Recommended-for-me]({{site.baseurl}}/img/user-test-quick-find.jpg)
+![](/img/userTest1_recommendations.png)
+
+Tapping the (?) icon allows the user to get more information about what the recommendation feature is and how recommendations are generated. 
+![](/img/userTest1_recommendedDescription.png)
+
+Tapping the (^) icon collapses this information box, and takes the user back to the recommendation page. From here, the user can either refresh the recommendations or view more details (and potentially add the event to their event list), as they can in the steps shown previously.
 
 # Most Important Changes to Design
 
@@ -68,5 +100,3 @@ Originally when the app is designed, the apply and cancel buttons were located a
 **3. Adding textbox signifier in the Filters section**
 
 Our original design has different text boxes in which the user can type in their likes and dislikes; in these respective text boxes stored the tags of their default interests. In our first two usability tests, our users are very unsure about whether it is ok to type inside the same boxes, as they are also occupied by the tags. As a result, they think they can only change the setting inside Profile. We decide to add the signifier that the user can type in the textbox with the sentence “Begin typing your likes/dislikes/locations”. In our third usability test, the user recognizes immediately that this is a space that they can type in.
-
-
