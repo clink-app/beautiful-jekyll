@@ -29,6 +29,7 @@ For each of our tests, the group member that was familiar with the tester and as
 | 2. Not clear that user is meant to type in filters page  |  2  |
 | 3. Not clear that header icons could be clicked          |  2  |
 
+A more detailed description of these issues and how we resolved them can be found [here](https://clink-app.github.io/2019-11-07-Usability-Testing-Check-In/).
 
 ### Test 2
 
@@ -36,9 +37,34 @@ For each of our tests, the group member that was familiar with the tester and as
 |------------------ | ------------------ |
 | 1. Unsure about the difference between "apply" and "(x)" on filter menu  |  4  |
 | 2. (Still) not clear that user is meant to type in filters page  |  2  |
-| 3. meaning of "quick find" unclear        |  4  |
-| 4. function of "rate" unclear-- how is it different from like/dislike?        |  3  |
+| 3. Meaning of "quick find" unclear        |  4  |
+| 4. Function of "rate" unclear-- how is it different from like/dislike?        |  3  |
 
+** Issue 1: Unsure about the difference between "apply" and "(x)" on filter menu **
+
+![](/img/test-review-t2i1.png)
+
+AA described their thought process while trying to change the filters during task 1. They edited the filters in the text box but weren't sure of what the best way to save and exit from the filters page. They thought clicking the "(x)" button might also apply their changes, which it doesn't. There also was an apply button that they thought would save the filter and did end up clicking on that instead, but the initial confusion is something we want to avoid in our design. If AA had clicked on the "(x)" instead, they would have had to do a lot of extra work to get to back to the point where they can try the apply button.
+
+We revised our filter page to have an apply button and a cancel button, getting rid of the "(x)" button. We hope this makes it more clear to the user how they should save their edits.
+
+![] (/img/test-review-apply-cancel-filter.png)
+
+** Issue 2: (Still) not clear that user is meant to type in filters page **
+
+** Issue 3: Meaning of "quick find" unclear **
+
+![] (/img/test-review-quick-find.png)
+
+During task 2, AA was able to figure out what "quick find" was but noted that it was unclear during their testing process. They explained that it was not intuitive to click to find recommended events.
+
+We implemented the revision to this issue after completing test 3, in which it also came up (see issue 1 under test 3 below).
+
+** Issue 4: Function of "rate" unclear-- how is it different from like/dislike? **
+
+![] (/img/test-review-drop-down.png)
+
+AA clicked on the drop down button during testing but did not interact with the menu because they were able to immeadiately realize it didn't have anything to do with their task. However, they did mention that, at a glance, they didn't really know what clicking "rate" would do and how it would be different from clicking "dislike" instead.
 
 ### Test 3
 
@@ -46,6 +72,16 @@ For each of our tests, the group member that was familiar with the tester and as
 |------------------ | ------------------ |
 | 1. Meaning of "quick find" unclear  |  4  |
 | 2. Would be helpful to have "events list" implemented  |  2  |
+
+** Issue 1: Meaning of "quick find" unclear
+
+![] (/img/test-review-quick-find.png)
+
+KS couldn't tell from the name that "quick find" was a way to find recommended events. They thought had to go to the profile to find recommended event, similar to how Spotify shows its users recommendations under the user's playlists.
+
+We fichanged
+
+![] (/img/test-review-rec-for-me.png)
 
 *Note: the change addressing problem two from the second user test (adding greyed out text signifying that the user can type) was implemented after user test 2, before user test 3.
 
