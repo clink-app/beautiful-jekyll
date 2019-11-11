@@ -8,6 +8,11 @@ published: true
 
 ### Test 1
 
+
+
+
+# Results
+
 | problem          | severity         |
 |------------------ | ------------------ |
 | 1. Not clear whether filters will be applied when added  |  3  |
@@ -33,10 +38,6 @@ published: true
 | 2. Would be helpful to have "events list" implemented  |  2  |
 
 *Note: the change addressing problem two from the second user test (adding greyed out text signifying that the user can type) was implemented after user test 2, before user test 3.
-
-
-# Results
-
 
 # Revised Prototype
 
