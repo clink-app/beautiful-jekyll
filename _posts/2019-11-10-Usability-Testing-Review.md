@@ -52,6 +52,12 @@ We revised our filter page to have an apply button and a cancel button, getting 
 
 ** Issue 2: (Still) not clear that user is meant to type in filters page **
 
+It took a while for AA to figure out how to create a new tag on the filter page because it was not clear how the user could type into the text box we had prepared. They eventually figured it out without prompt, but only after several rounds of opening and closing the filters page and tapping around the screen to find a trigger for typing.
+
+We revised our prototype so that there was greyed out text at the top of each text box that described what the users could type into the box. We hoped this would signal to the user that the box could be interacted with and that it was where new filters should be typed in.
+
+![](/img/user-test-filter.jpg)
+
 ** Issue 3: Meaning of "quick find" unclear **
 
 ![](/img/test-review-quick-find.png)
@@ -73,17 +79,25 @@ AA clicked on the drop down button during testing but did not interact with the 
 | 1. Meaning of "quick find" unclear  |  4  |
 | 2. Would be helpful to have "events list" implemented  |  2  |
 
-** Issue 1: Meaning of "quick find" unclear
+** Issue 1: Meaning of "quick find" unclear **
 
 ![](/img/test-review-quick-find.png)
 
 KS couldn't tell from the name that "quick find" was a way to find recommended events. They thought had to go to the profile to find recommended event, similar to how Spotify shows its users recommendations under the user's playlists.
 
-We fichanged
+We replaced the text on the button in question to say "recommended for me" instead of "quick find" so that it would match our users' mental models.
 
 ![](/img/test-review-rec-for-me.png)
 
-*Note: the change addressing problem two from the second user test (adding greyed out text signifying that the user can type) was implemented after user test 2, before user test 3.
+** Issue 2: Would be helpful to have "events list" implemented **
+
+![](/img/test-review-my-events.png) ![](/img/test-review-see-my-list.png)
+
+KS had a mental model of the recommended events being shown in the same manner as Spotify's recommended songs. On Spotify, recommended songs are shown to the user at the bottom of a user's playlist, thus, KS thought that recommended events would be shown at the end of the user's event list, which we had not prototyped because we thought it was irrelevant to the tasks we chose.
+
+We did not make a direct change to this, although in our high-fidelity prototype we may have it implemented. We hope that by having a more intuitive button for recommended events on the home page, users' mental models will shift somewhat to fit with what they now know about the app's structure.
+
+*Note: the change addressing problem two from the second user test (adding greyed out text signifying that the user can type) was implemented after user test 2, before user test 3, since it was the most severe hinderance that we observed in test 1 and 2.)
 
 # Revised Prototype: Task Walkthrough
 
