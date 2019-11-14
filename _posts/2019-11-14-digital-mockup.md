@@ -19,7 +19,7 @@ To complete this task, we first select "find events" from the homepage.
 This loads the event list, which is populated with events matching our default filters. These filters are set when a user first creates their account, and can be altered in the profile menu. The profile menu is shown here, in addition to the event list:
 
 ![](/img/mockup-edit-profile-page.png)
-![](/img/mockup-find-event-page)
+![](/img/mockup-find-event-page.png)
 
 Multiple actions can be taken with regards to events. For example, the user can click the (v) button, which displays the options to rate, report, and dislike.
 
