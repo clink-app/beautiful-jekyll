@@ -76,5 +76,5 @@ Clicking the (^) icon collapses this description page, returning the user to the
 ![](/img/mockup-recommended-page.png)
 
 
-*All images from [pexels.com](https://www.pexels.com/).
+*All images from [pexels.com](https://www.pexels.com/).*
 
