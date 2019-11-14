@@ -6,7 +6,7 @@ published: true
 
 Our digital mockup was created directly from our most recent revision of our paper prototype.
 
-##Overview
+## Overview
 
 ![](/img/mockup-overview.png)
 
@@ -56,7 +56,7 @@ Once the user has filtered the list to match their preferences and finds an even
 The user may then choose to add the event to their personal event list. This makes it so that event details can be accessed more easily, and Clink! will automatically remind the user when an event on their list is about to start. Selecting "see my list" from the confirmation page allows the user to access this list directly.
 
 ![](/img/mockup-event-added-page.png)
-![](img/mockup-my-event-list.png)
+![](/img/mockup-my-event-list.png)
 
 
 
