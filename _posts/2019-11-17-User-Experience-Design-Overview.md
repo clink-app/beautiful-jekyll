@@ -112,7 +112,11 @@ This page can be collapsed by tapping the (^) icon. This takes the user back to 
 
 ## **[Digital Mockup](https://clink-app.github.io/2019-11-14-digital-mockup/)**
 
-For our digital mockup, we are able to expand our prototype more and make the most realistic version of our product so far. We added some specific sections such as “my event list”, “report”, “rating” and “dislike” pages, as our testers were hoping they could interaction with this section of our prototype. Another imporant change we decided to add to our prototype is the greyed out area that says “begin typing” so it’s clear for users we’re expecting input.
+Below is the overall overview of our digital mockup
+
+![mockup-overview.png]({{site.baseurl}}/img/mockup-overview.png)
+
+For our digital mockup, we are able to expand our prototype more and produce the most realistic version of our product so far. We added some specific sections such as “my event list”, “report”, “rating” and “dislike” pages, as well as some help buttons and clarification areas to help guide our users. During the usability testing, our testers were hoping they could interact with these sections of our prototype. Although these added sections are not related to our 2 primary tasks, we think they assist greatly in providing a more complete feel of our product and its functionality.
 
 For the first task, our current design have a clear find events section that the user can tap in and go to the event list that has been filtered according to their default interests. From here, we designed our “FILTER” button at the top of the page so it can easily be seen that the user can add in temporary filters if desired. After that, they can easily see the details and add the event to their event list.
 
