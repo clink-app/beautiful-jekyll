@@ -1,6 +1,7 @@
 ---
 layout: post
 title: User Experience Design Overview
+published: true
 ---
 
 # **Clink! Creating Community through Connection**
@@ -33,7 +34,13 @@ Our [initial paper prototype](https://clink-app.github.io/2019-10-30-Paper-Proto
 
 
 
-## **Digital Mockup**
+## **[Digital Mockup](https://clink-app.github.io/2019-11-14-digital-mockup/)**
+
+For our digital mockup, we are able to expand our prototype more and make the most realistic version of our product so far. We added some specific sections such as “my event list”, “report”, “rating” and “dislike” pages, as our testers were hoping they could interaction with this section of our prototype. Another imporant change we decided to add to our prototype is the greyed out area that says “begin typing” so it’s clear for users we’re expecting input.
+
+For the first task, our current design have a clear find events section that the user can tap in and go to the event list that has been filtered according to their default interests. From here, we designed our “FILTER” button at the top of the page so it can easily be seen that the user can add in temporary filters if desired. After that, they can easily see the details and add the event to their event list.
+
+For our second task, our home page also has a section that points to the recommended events page of our app, “recommended for you”. Here, in case the user is confused about the functionality of this session, there is a question mark sign that the user can tap in and get information about the purpose of this session. After that, they can choose to add a recommended event to their event list or refresh the page in order to get two new recommendations.
 
 
 ## **Discussion**
