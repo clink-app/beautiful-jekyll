@@ -19,7 +19,26 @@ The problem we focus on is the difficulty surrounding finding ways to engage in 
 
 ## **Initial Paper Prototype**
 
-Our [initial paper prototype](https://clink-app.github.io/2019-10-30-Paper-Prototype/)
+Our [initial paper prototype](https://clink-app.github.io/2019-10-30-Paper-Prototype/) focused on two main tasks: finding an event based on a user’s preferences and automatically recommending events of interest that fit into the empty slots of a user’s schedule. 
+[overview image]
+To make starting these two tasks easier for our users, we created a home page with three buttons, two of which corresponded to our two tasks (‘find events’ and ‘rec me!’) and one that showed the list of events the user has chosen (‘my events’). 
+[home page]
+We also created a header that would appear on every page of our app with our app name, Clink!, and our logo, so that the user can return to the home page by clicking the logo or app name on any page. The header also has a profile icon that theoretically led the user to an editable profile page with all the user’s more permanent interests, although this was not implemented in our initial prototype as it was not relevant to completing either of our tasks. To complete task one, searching and filtering for events, a user starts by clicking on the find events button to get a scrollable list of all events available that fit the user’s profile preferences.
+[events page]
+Clicking the filter button expands the filter editor. This prototype’s ‘user’ has filters for art and music chosen already. Additional filters can be added by typing into the text box next to “Add” and selecting from the tags that pop up. Filters can be removed by clicking the ‘x’ next to their tag.
+[filter page]
+Tapping the filter button again contracts the filter editor and applies the filters. The list of events is automatically refreshed upon filter application. Clicking on an event leads to a page with a more complete description of the event and “Add” and “Cancel” buttons. 
+[details page]
+Clicking “Cancel” takes the user back to the list of events and clicking “Add” adds the event to the user’s event list and shows the user a confirmation page.
+[added to list]
+The “SEE MY LIST” button leads the users to their event list, but we did not implement that in our initial paper prototype because it was not relevant. Our second task was to find and add a recommended event to the event list, so to start, the user would need to click on the “rec me!” button on the home page.
+[home page]
+This would take them to the recommended event page, where there are two events that the algorithm as chosen as the best fit for the user based on preferences and schedule.
+[rec page]
+Clicking on an event leads to a detail page like before, where the user can add the event to their event list or cancel and go back to the recommended event list. 
+[detail page]
+Clicking “Add” adds the event to the user’s event list and bring them to the same confirmation page as before.
+
 
 
 ## **Testing Process**
@@ -54,4 +73,4 @@ More iterations could have been helpful for our design process, especially if we
 
 
 
-## **[Appendix]()**
+## **[Appendix](https://clink-app.github.io/appendix/)**
