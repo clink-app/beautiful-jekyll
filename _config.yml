@@ -22,9 +22,8 @@ description: Creating Community through Connection
 navbar-links:
   Project Proposal: "project_proposal"
   Team: "aboutme"
-  UX Research Presentation: "UX RESEARCH OVERVIEW PRESENTATION.pdf"
   Appendix: "appendix"
-  UX Experience Presentation: "USER EXPERIENCE DESIGN OVERVIEW Presentation.pdf"
+  Presentation: "presentation"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
