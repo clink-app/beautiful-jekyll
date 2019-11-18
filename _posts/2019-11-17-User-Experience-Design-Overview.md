@@ -68,9 +68,45 @@ We first conducted a [heuristic evaluation](https://clink-app.github.io/2019-11-
 
 ## **Testing Results**
 
+As described above, our first use of the paper prototype was in two heuristic evaluations. The feedback from these evaluations was largely related to the interactivity allowed for in the prototype itself, rather than about the actual app design. This was because we had initially only implemented features that we felt were directly relevant to the completion of the two tasks. We quickly learned that this was an unideal approach because it didn’t allow users to test the flow of the app naturally; we could not see the ways in which their ‘path’ to completing the task was different than what we as the designers expected, since the interactions allowed for artificially constrained them to our approach. We changed this by allowing for more actions. We also changed the text on our recommendation button from “rec me!” to “quick find”, since our user found the term “rec me!” confusing. Our next three tests were usability tests. The user in our first test found the phrase “quick find” confusing, because it was not clear how it differed from the more descriptive “find events” button marking our other task. This showed us that we did not fix the ambiguity issue as well as we thought, so we then changed the wording from “quick find” to “recommended for me”. Our final rounds of user testing revealed that there was still some confusion regarding this functionality, so we added a (?) icon that the user could click for a more detailed description of the feature. The other main change that was iteratively improved over the course of our user testing was the filters menu. Our first tester was unsure whether filters would be automatically applied, so we added an explicit “apply” button to the page. Our second tester, however, was confused by this, because we had left the original (x) button as well; they were unsure of the difference. This made sense, because though we had thought of hte (x) as a ‘cancel’, or ‘back’ button, the design did not make this feature clear to the user. We altered this to change the (x) button to say “cancel”. We also positioned it on the page directly next to the apply button, and weighted it equally, so it was clear that the user would choose either one or the other. 
 
 
 ## **Final Paper Prototype**
+
+Like our initial prototype, our revised version focused on the same two tasks: finding events through user filtering and automatically recommending events most fitting to the user, both in terms of time and interest.
+
+![](/img/user-review-overview.jpg)
+
+Our home page still features three main buttons, though the wording of the second has changed as a result of user testing. 
+
+![](/img/user-test-quick-find.jpg)
+
+The navbar icons are all clickable: the person icon takes the user to a profile page, and the “Clink!” icon takes the user to the main homepage if they have navigated away from it. The profile page was not implemented in the initial prototype, but was in our final version as a result of user testing feedback.
+
+![](/img/revised_prototype_profile_editing.jpg)
+
+From the home page, the user can select “find events” to search and filter available events. 
+
+![](/img/userTest1_eventList.png)
+
+Clicking on “filters” expands the filter menu. This allows the user to change the default filters, which are set in the profile. This is similar in functionality to the initial prototype, but the design has changed to address feedback from user testing, as described above. 
+
+![](/img/user-test-filter-cancel.jpg)
+
+Selecting “apply” collapses the filter menu and updates the event list to fit the changes. Selecting any of these events takes the user to a detailed event page. As before, selecting “add” adds the event to the user’s personal event list. 
+
+![](/img/userTest1_eventDetails.png)
+![](/img/userTest1_eventAddedConfirmation.png)
+
+To complete the second task, the user selects “recommended for me” from the main menu. This loads the recommendation page.
+
+![](/img/userTest1_recommendations.png)
+
+Since the functionality of this feature was slightly confusing to our testers, we added an information page. This can be accessed by selecting the (?) icon. 
+
+![](/img/userTest1_recommendedDescription.png)
+
+This page can be collapsed by tapping the (^) icon. This takes the user back to the short list of recommended events. This can either be refreshed (to generate new recommendations) or, as in the previous task, the user can click on an event to view details or take additional actions. 
 
 
 
